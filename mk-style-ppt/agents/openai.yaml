@@ -1,0 +1,4 @@
+interface:
+  display_name: "MK Style PPT"
+  short_description: "制作逻辑清晰、信息密集、图表有据且配色一致的学术技术演示文稿"
+  default_prompt: "使用 $mk-style-ppt 制作或优化这份技术演示文稿，优先检查内容、排版与着色逻辑，并以真实数据支撑结论。"
